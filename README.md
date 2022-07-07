@@ -1,9 +1,9 @@
-# <PROJECT-NAME-REPLACE>
+# special-project
 
 
-This is a sample test repo for <PROJECT-NAME-REPLACE>.
+This is a sample test repo for special-project.
 
 
 ### WHAT DOES THIS REPO DO?
-It prints out the name of your project: <PROJECT-NAME-REPLACE>
+It prints out the name of your project: special-project
 
